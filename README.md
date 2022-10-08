@@ -6,7 +6,7 @@
 #### Team Name: `Music and Health Care`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Music and Parkinson's Diesease`
+##### `Music and Parkinson's Disease`
 
 
 #### A visual
