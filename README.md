@@ -29,5 +29,7 @@
 
 #### Team Coordinator GitHub Username: `nhwong312`
 
-#### Team Members `Luviela Zavala Camacho, Lea Rodriguez Jenkins, Alexis Tran, Hao Nguyen`
+#### Team Members ` Mercy Hwong, Lea Rodriguez Jenkins, Paul Kung, Hao Nguyen,Luviela Zavala Camacho` 
+[Hackathon presentation 2022.pptx](https://github.com/BigDataForSanDiego/team117/files/9791626/Hackathon.presentation.2022.pptx)
+
 
